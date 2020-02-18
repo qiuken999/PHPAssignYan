@@ -6,9 +6,10 @@
 @extends('base')
 
 @section('content')
+    <h3>Edit Actor Information</h3>
     <div class="row">
-        <div class="col-md-12">
-            <h3>Edit Actor Information</h3>
+        <div class="col-md-3">
+            
             <br>
             <!-- notification -->
             @if(count($errors) > 0)
