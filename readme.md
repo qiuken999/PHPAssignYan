@@ -8,6 +8,8 @@ Author: Yan Zhang
 * Movie Information and Actor Information are stored in the database
 * With full functioning CRUD
 
+Database migrations: /database/migrations
+
 ## Application screenshot examples
 ### Home Page
 ![Image of HomePage](https://mir-s3-cdn-cf.behance.net/project_modules/fs/43f73592434393.5e4b76a55a295.png)
