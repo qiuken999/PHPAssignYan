@@ -8,6 +8,8 @@ Author: Yan Zhang
 * Movie Information and Actor Information are stored in the database
 * With full functioning CRUD
 
+#  ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [AWS RDS + Elastic Beanstalk ](http://movieinventory.us-east-2.elasticbeanstalk.com/home)
+
 Database migrations: /database/migrations
 
 ## Application screenshot examples
